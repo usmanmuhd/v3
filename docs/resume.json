@@ -1,0 +1,148 @@
+{
+    "selectedTemplate": 1,
+    "headings": {
+      "awards": ""
+    },
+    "basics": {
+      "name": "Muhammad Usman",
+      "email": "me@usmanmuhd.com",
+      "phone": "+91 89045 29620",
+      "website": "usmanmuhd.com",
+      "location": {
+        "address": "Bangalore, India"
+      }
+    },
+    "education": [
+      {
+        "location": "Bangalore, India",
+        "startDate": "August 2016",
+        "endDate": "July 2020",
+        "institution": "PES University",
+        "studyType": "B. Tech",
+        "area": "Computer Science and Engineering"
+      }
+    ],
+    "work": [
+      {
+        "company": "Cisco Systems",
+        "location": "Bangalore, India",
+        "position": "Software Engineer",
+        "website": "",
+        "endDate": "Present",
+        "highlights": [
+          "Implemented a highly efficient and reliable Continuous Deployment solution to deploy python packages to machines inside an isolated network at Cisco's manufacturing factories throughout the world over the internet. This solution reduced the production issues by over 80% as compared to the previous solution.",
+          "Managed logging and monitoring system of the servers responsible to keep Cisco's manufacturing operational.",
+          "Designed and led the efforts to convert an existing monolithic CI/CD application to microservices on Kubernetes."
+        ],
+        "startDate": "August 2020"
+      },
+      {
+        "highlights": [
+          "Built dashboards to track the adoption of the CI/CD tool to deploy packages used to manufacture Cisco products and test them for quality.",
+          "Developed the capability to ensure that the latest packages are deployed to the machines in order to ensure the best quality of Cisco products.",
+          "Develop documentation using Sphinx framework."
+        ],
+        "company": "Cisco Systems",
+        "position": "Technical Undergraduate Intern",
+        "location": "Bangalore, India",
+        "startDate": "January 2020",
+        "endDate": "June 2020"
+      },
+      {
+        "highlights": [
+          "Worked on improving the Article Recommendation Pipeline for Wikimedia. Improved the recommendation results and the time taken in the morelike and translation endpoint of Wikimedia API."
+        ],
+        "company": "Google Summer of Code",
+        "startDate": "May 2019",
+        "endDate": "August 2019",
+        "position": "Wikimedia Foundation"
+      },
+      {
+        "highlights": [
+          "Developed a hands-on training module to teach REST API development using Django in Python 3.",
+          "Developed a generic Jenkins pipeline using docker that could be used to test applications built using various frameworks."
+        ],
+        "company": "Crio.Do",
+        "position": "Software Engineer - Intern",
+        "location": "Bangalore, India",
+        "startDate": "June 2019",
+        "endDate": "July 2019"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Programming Languages",
+        "level": "",
+        "keywords": [
+          "Python",
+          "Javascript"
+        ]
+      },
+      {
+        "keywords": [
+          "Flask",
+          "Falcon",
+          "AngularJS"
+        ],
+        "name": "Frameworks"
+      },
+      {
+        "keywords": [
+          "Red Hat",
+          "CentOS",
+          "Ubuntu"
+        ],
+        "name": "Operating Systems"
+      },
+      {
+        "keywords": [
+          "MSSQL",
+          "PostgreSQL",
+          "Git",
+          "Docker",
+          "Ansible"
+        ],
+        "name": "Others"
+      }
+    ],
+    "projects": [
+      {
+        "description": "Developed Backend APIs in microservices for a cloud based application to share information about any selfless acts being performed. The containers auto-scales based on the number of requests and the health-check of each individual container. Deployed it on AWS.",
+        "url": "github.com/usmanmuhd/selfieless-acts",
+        "keywords": [
+          "Django",
+          "Docker",
+          "PostgreSQL"
+        ],
+        "name": "SelfieLess Acts"
+      },
+      {
+        "keywords": [
+          "Flask",
+          "RaspberryPi",
+          "NodeMCU",
+          "Google Maps API"
+        ],
+        "name": "Smart Dustbin Network",
+        "description": "Created a network for E-bins for better waste management. Shows the location and status of the bin in a given area. Alerts the authorities if a given bin reaches its threshold limit.",
+        "url": "github.com/usmanmuhd/AnonymousCoders"
+      }
+    ],
+    "awards": [
+      {
+        "title": "",
+        "date": "",
+        "awarder": "",
+        "summary": ""
+      }
+    ],
+    "sections": [
+      "templates",
+      "profile",
+      "work",
+      "skills",
+      "projects",
+      "education",
+      "awards"
+    ]
+  }
