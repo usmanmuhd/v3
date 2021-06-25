@@ -7,6 +7,9 @@ publishDir = "docs"
 theme = "cactus"
 
 [markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true
     [markup.highlight]
         codeFences = true
         guessSyntax = false
@@ -21,7 +24,7 @@ theme = "cactus"
 [params]
     description = "I am currently a Software Engineer at Cisco."
     mainSection = "posts"
-    mainSectionTitle = "Blog"
+    mainSectionTitle = "Recent Posts"
 
 [[menu.main]]
 name = "Home"
@@ -30,7 +33,7 @@ weight = 1
 
 [[menu.main]]
 name = "Posts"
-url = "/posts"
+url = "/posts/"
 weight = 2
 
 [[menu.main]]
@@ -39,14 +42,14 @@ url = "/tags/"
 weight = 3
 
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Categories"
+url = "/categories/"
 weight = 4
 
 [[menu.main]]
 name = "Resume"
 url = "/resume.pdf"
-weight = 5
+weight = 6
 
 [[params.social]]
     name = "github"

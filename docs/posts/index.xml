@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muhammad Usman</title>
-    <link>https://usmanmuhd.com/</link>
-    <description>Recent content on Muhammad Usman</description>
+    <title>Posts on Muhammad Usman</title>
+    <link>https://usmanmuhd.com/posts/</link>
+    <description>Recent content in Posts on Muhammad Usman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 11:44:53 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact Me</title>
-      <link>https://usmanmuhd.com/contact/</link>
-      <pubDate>Sun, 21 Oct 2018 17:00:10 +0530</pubDate>
-      
-      <guid>https://usmanmuhd.com/contact/</guid>
-      <description>For any queries, help or feedback, please drop a mail at me@usmanmuhd.com.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 19 Aug 2019 11:44:53 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Summer of Code 2019: Improve Article Recommendation Pipeline</title>
       <link>https://usmanmuhd.com/posts/gsoc-final/</link>

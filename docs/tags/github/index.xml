@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>github on Muhammad Usman</title>
+    <link>https://usmanmuhd.com/tags/github/</link>
+    <description>Recent content in github on Muhammad Usman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Oct 2018 20:48:29 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Making a PR to GitHub Repository</title>
+      <link>https://usmanmuhd.com/posts/making-pr/</link>
+      <pubDate>Sat, 20 Oct 2018 20:48:29 +0530</pubDate>
+      
+      <guid>https://usmanmuhd.com/posts/making-pr/</guid>
+      <description>#logo { box-shadow: none; width: 200px; }  Forking and Cloning the Project  Fork Project on GitHub from the Main Repository to your own profile. Clone the forked repository.  git clone https://github.com/&amp;lt;your-username&amp;gt;/&amp;lt;project-name&amp;gt;.git cd &amp;lt;project-name&amp;gt;  Add the Main Repository as an upstream remote.  git remote add upstream https://github.com/&amp;lt;main-repository&amp;gt;/&amp;lt;project-name&amp;gt;.git Make Your Changes and Push to the Fork Create a branch Create a branch on which you make your changes.</description>
+    </item>
+    
+  </channel>
+</rss>

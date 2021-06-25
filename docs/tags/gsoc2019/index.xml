@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Muhammad Usman</title>
-    <link>https://usmanmuhd.com/</link>
-    <description>Recent content on Muhammad Usman</description>
+    <title>gsoc2019 on Muhammad Usman</title>
+    <link>https://usmanmuhd.com/tags/gsoc2019/</link>
+    <description>Recent content in gsoc2019 on Muhammad Usman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Aug 2019 11:44:53 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact Me</title>
-      <link>https://usmanmuhd.com/contact/</link>
-      <pubDate>Sun, 21 Oct 2018 17:00:10 +0530</pubDate>
-      
-      <guid>https://usmanmuhd.com/contact/</guid>
-      <description>For any queries, help or feedback, please drop a mail at me@usmanmuhd.com.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 19 Aug 2019 11:44:53 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/tags/gsoc2019/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Google Summer of Code 2019: Improve Article Recommendation Pipeline</title>
       <link>https://usmanmuhd.com/posts/gsoc-final/</link>
@@ -96,15 +87,6 @@ During this time, I also attended the MediaWiki Training 2019 organized in Banga
       <guid>https://usmanmuhd.com/posts/gsoc-blog-1/</guid>
       <description>What is GSoC? Google Summer of Code is a program sponsored by Google to introduce students to open source programming. Students work on the projects mentored by different open source organizations. It is an incredible opportunity to learn the various tools and practices used in real world software.
 My GSoC Selection Story I am a 3rd Year Computer Science Engineering student at PES University, Bangalore. I had known about GSoC since my 1st year in college, but could not participate as my college clashed with the GSoC coding period.</description>
-    </item>
-    
-    <item>
-      <title>Making a PR to GitHub Repository</title>
-      <link>https://usmanmuhd.com/posts/making-pr/</link>
-      <pubDate>Sat, 20 Oct 2018 20:48:29 +0530</pubDate>
-      
-      <guid>https://usmanmuhd.com/posts/making-pr/</guid>
-      <description>#logo { box-shadow: none; width: 200px; }  Forking and Cloning the Project  Fork Project on GitHub from the Main Repository to your own profile. Clone the forked repository.  git clone https://github.com/&amp;lt;your-username&amp;gt;/&amp;lt;project-name&amp;gt;.git cd &amp;lt;project-name&amp;gt;  Add the Main Repository as an upstream remote.  git remote add upstream https://github.com/&amp;lt;main-repository&amp;gt;/&amp;lt;project-name&amp;gt;.git Make Your Changes and Push to the Fork Create a branch Create a branch on which you make your changes.</description>
     </item>
     
   </channel>

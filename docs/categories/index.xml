@@ -5,6 +5,25 @@
     <link>https://usmanmuhd.com/categories/</link>
     <description>Recent content in Categories on Muhammad Usman</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://usmanmuhd.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Aug 2019 11:44:53 +0530</lastBuildDate><atom:link href="https://usmanmuhd.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Google Summer of Code 2019</title>
+      <link>https://usmanmuhd.com/categories/google-summer-of-code-2019/</link>
+      <pubDate>Mon, 19 Aug 2019 11:44:53 +0530</pubDate>
+      
+      <guid>https://usmanmuhd.com/categories/google-summer-of-code-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://usmanmuhd.com/categories/git/</link>
+      <pubDate>Sat, 20 Oct 2018 20:48:29 +0530</pubDate>
+      
+      <guid>https://usmanmuhd.com/categories/git/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
