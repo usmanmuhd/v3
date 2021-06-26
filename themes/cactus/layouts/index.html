@@ -102,7 +102,11 @@
     <ul class="project-list">
         {{ range .Site.Data.projects.list }}
         <li class="project-item">
-          <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+          {{ if .blank }}
+            <a href="{{ .url }}" target="_blank">{{ .name }}</a>: {{ .desc | markdownify }}
+          {{ else }}
+            <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+          {{ end }}
         </li>
         {{ end }}
     </ul>

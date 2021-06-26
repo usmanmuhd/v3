@@ -22,9 +22,11 @@ theme = "cactus"
         tabWidth = 4
 
 [params]
+    colortheme = "classic" # dark, light, white, or classic
     description = "I am currently a Software Engineer at Cisco."
     mainSection = "posts"
     mainSectionTitle = "Recent Posts"
+    projectsUrl = "/"
 
 [[menu.main]]
 name = "Home"
