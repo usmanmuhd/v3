@@ -26,8 +26,8 @@ theme = "cactus"
     description = "I am currently a Software Engineer at Cisco."
     mainSection = "posts"
     mainSectionTitle = "Posts"
-    projectsUrl = "/"
     showAllPostsOnHomePage = true
+    contact = "For any queries, help or feedback, please drop a mail at [`me@usmanmuhd.com`](mailto:me@usmanmuhd.com)."
 
 [[menu.main]]
 name = "Home"
@@ -35,29 +35,20 @@ url = "/"
 weight = 1
 
 [[menu.main]]
-name = "Posts"
-url = "/posts/"
-weight = 2
-
-[[menu.main]]
 name = "Categories"
 url = "/categories/"
-weight = 3
+weight = 2
 
 [[menu.main]]
 name = "Tags"
 url = "/tags/"
-weight = 4
+weight = 3
 
 [[menu.main]]
 name = "Resume"
 url = "/resume.pdf"
-weight = 6
+weight = 4
 
 [[params.social]]
     name = "github"
     link = "https://github.com/usmanmuhd"
-
-[[params.social]]
-    name = "email"
-    link = "me@usmanmuhd.com"

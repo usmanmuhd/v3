@@ -98,7 +98,7 @@
       {{ $projectsUrl = .Site.Params.projectsUrl }}
     {{ end }}
   <section id="projects">
-    <span class="h1"><a href="{{ $projectsUrl }}">Projects</a></span>
+    <span class="h1">Projects</span>
     <ul class="project-list">
         {{ range .Site.Data.projects.list }}
         <li class="project-item">
@@ -112,4 +112,13 @@
     </ul>
   </section>
   {{ end }}
+
+  <section id="contact">
+    <span class="h1">Contact Me</span>
+    <ul class="project-list">
+        <li class="project-item">
+          {{ .Site.Params.contact | markdownify }}
+        </li>
+    </ul>
+  </section>
 {{ end }}
