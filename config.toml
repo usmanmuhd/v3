@@ -22,8 +22,8 @@ theme = "cactus"
         tabWidth = 4
 
 [params]
-    colortheme = "dark" # dark, light, white, or classic
-    description = "I am currently a Software Engineer at Cisco."
+    colortheme = "classic" # dark, light, white, or classic
+    description = "Software Engineer @ Cisco: Working primarily on building the platform to be used by Test Engineers to improve product quality.<br/>Google Summer of Code 2019 w/ Wikimedia Foundation."
     mainSection = "posts"
     mainSectionTitle = "Posts"
     showAllPostsOnHomePage = true

@@ -4,12 +4,14 @@
       "name": "SelfieLess Acts",
       "url": "https://github.com/usmanmuhd/selfieless-acts",
       "blank": true,
+      "tech": "Django, Docker, PostgreSQL",
       "desc": "Developed Backend APIs in microservices for a cloud based application to share information about any selfless acts being performed. The containers auto-scales based on the number of requests and the health-check of each individual container. Deployed it on AWS."
     },
     {
       "name": "Smart Dustbin Network",
       "url": "https://github.com/usmanmuhd/AnonymousCoders",
       "blank": true,
+      "tech": "Flask, RaspberryPi, NodeMCU, Google Maps API",
       "desc": "Created a network for E-bins for better waste management. Shows the location and status of the bin in a given area. Alerts the authorities if a given bin reaches its threshold limit."
     }
   ]

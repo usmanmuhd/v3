@@ -103,9 +103,9 @@
         {{ range .Site.Data.projects.list }}
         <li class="project-item">
           {{ if .blank }}
-            <a href="{{ .url }}" target="_blank">{{ .name }}</a>: {{ .desc | markdownify }}
+            <a href="{{ .url }}" target="_blank">{{ .name }}</a> <br/> <div style="float:right;font-style: italic">Technologies Used: {{ .tech }}</div> <br/> {{ .desc | markdownify }}
           {{ else }}
-            <a href="{{ .url }}">{{ .name }}</a>: {{ .desc | markdownify }}
+            <a href="{{ .url }}">{{ .name }}</a> <br/> <div style="float:right;font-style: italic">Technologies Used: {{ .tech }}</div> <br/> {{ .desc | markdownify }}
           {{ end }}
         </li>
         {{ end }}
